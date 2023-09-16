@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+    
+
+}
+.loginbody{
+    background-color: rgb(46, 46, 119);
+    color:white;
+    text-align: center;
+}
+.container{
+    margin-top: 10%;
+    
+}
+.login form{
+    background-color: rgb(77, 132, 233);
+    text-align: center;
+    height:60vh;
+    
+}
+.login form label{
+    padding:4%;
+}
+.login form button{
+    background-color: rgb(46, 46, 119);
+    color:white;
+    width:80px;
+    border-radius: 5px;
+}
+#note{
+    padding:5%;
+}
